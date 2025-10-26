@@ -125,9 +125,8 @@ def main():
     
   
     plot_3d_graph(df)
-    
-    print("\nЛабораторная работа завершена успешно!")
 
 
 if __name__ == "__main__":
     main()
+
